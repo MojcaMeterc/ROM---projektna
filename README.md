@@ -14,6 +14,7 @@ Ta repozitorij vsebuje projekt, v katerem analiziram Uporabo socialnih omrežij 
 7. Spletno nakupovanje
 8. Uporaba glede na starost
 
-##Povezava do videoposnetka
+###Povezava do videoposnetka
+https://youtu.be/ns31Wllq2Uc 
 
 _**Pripravila**: Mojca Meterc_
